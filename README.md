@@ -18,16 +18,27 @@ Master
 Bruno G. D. Faria https://www.linkedin.com/in/bruno-dionisio-6134451a7/
 
 O que é o PLIINB? 🔍
+
 Assistente Pessoal Virtual vinculado à API Google Calendar, no qual o usuário usará comandos de voz para acessar a Agenda Google através da API, executar os comandos de consultar, editar e visualizar compromissos da agenda. Além de consumir API do sexto semestre.
 
+
 Lista de comandos possíveis:
+
 Consultar agenda;
+
 Ler compromissos do dia;
+
 Incluir compromisso;
+
 Editar compromisso;
+
 Excluir compromisso;
+
 Fechar agenda.
+
+
 Ferramentas e Linguagens 🛠️
+
 Ferramentas utilizadas para o desenvolvimento do projeto:
 
 Python 3.6 (com Flask)
@@ -43,9 +54,11 @@ StackEdit
 Github <https://github.com/BrunoGDF/PLIINB/
 
 Criando o PLIINB
+
 Assistente Pessoal Virtual
 
 Pré-requisitos
+
 Instalar os softwares:
 -   Python 3.6 (com Flask); 
     
